@@ -6,6 +6,10 @@
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-16",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
+		    {
+                "name": "GitHub Tutorial",
+                "description": "Added Github Tutorial site."
+            },
             {
                 "name": "URL Mapping for Live Preview",
                 "description": "You can now use Live Preview with server-based content by specifying a base URL in Project Settings."
