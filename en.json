@@ -6,6 +6,10 @@
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-16",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
+			{
+                "name": "Branch Switching",
+                "description": "Swutch Branch on Github"
+            },
 		    {
                 "name": "GitHub Tutorial",
                 "description": "Added Github Tutorial site."
