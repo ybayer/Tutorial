@@ -9,6 +9,10 @@
 			{
                 "name": "Branch Switching",
                 "description": "Swutch Branch on Github"
+                  },
+			 {
+                "name": "Pull command Tutorial",
+                "description": "Added Pull command Tutorial site."
             },
 		    {
                 "name": "GitHub Tutorial",
