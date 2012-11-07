@@ -6,6 +6,10 @@
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-16",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
+					{
+                "name": "More items in master branch",
+                "description": "Swutch Branch on Github"
+             },
 			{
                 "name": "Issue1 branch item",
                 "description": "Swutch Branch on Github"
